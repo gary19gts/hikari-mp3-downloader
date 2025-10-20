@@ -2,7 +2,8 @@
 
 # ✨ Hikari Mp3 Downloader
 
-<img src="hikari_icon_256x256.png" alt="Hikari Mp3 Downloader Logo" width="150"/>
+![Image](https://github.com/user-attachments/assets/277adb65-3ca1-414c-97db-df68e3c1e293)
+
 
 ### 🎵 YouTube to MP3 Converter - High-Quality Audio Extractor
 
